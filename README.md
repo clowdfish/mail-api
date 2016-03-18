@@ -1,6 +1,7 @@
 # mail-api
-An easy mail client exposing a mail send functionality over a RESTful interface.
-
+An easy mail client exposing a mail send functionality over a RESTful interface. 
+It makes use of the [Mailgun](https://www.mailgun.com/) service, so you need to register there for using this little piece of software.
+ 
 # Setup
 Start the server with 
 ```
