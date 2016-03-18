@@ -1,12 +1,16 @@
 {
   "name": "mail-api",
-  "version": "1.0.0",
-  "description": "Mail API being exposed as RESTful interface.",
-  "main": "app.js",
+  "version": "1.0.1",
+  "description": "Mail API being exposed as a RESTful interface.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sascha Gros",
+  "author": {
+    "name": "Sascha Gros",
+    "email": "info@gros-engineering.com",
+    "url": "http//www.gros-engineering.com"
+  },
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.0",
