@@ -1,0 +1,7 @@
+{
+  "mailgun": {
+    "apiKey": "key-abcd",
+    "domain": "mg.your-domain.com"
+  },
+  "receiver": "example@your-domain.com"
+}

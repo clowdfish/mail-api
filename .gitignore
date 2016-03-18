@@ -1,0 +1,8 @@
+# OS and temp files
+.DS_Store
+
+# npm packages
+node_modules/
+
+# The concrete configuration file
+config/default.json
